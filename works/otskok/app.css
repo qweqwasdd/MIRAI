@@ -517,3 +517,5 @@ input:checked+.box{background:var(--court)}
 @media (max-width:719px){.place-btn{justify-self:stretch}.map{margin-top:.5rem}}
 
 @media (max-width:719px){.ml{font-size:21px}.mc{font-size:22px}.mp{font-size:30px}.mpl{font-size:16px}.mpl{transform:translateY(6px)}}
+
+@media (max-width:400px){.nav-in{gap:1rem}.btn-sm{padding:0 .8rem}}
